@@ -44,8 +44,13 @@ Machine Learning & Deep Learning
   <img alt="Scikit-learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
+
+
 Specializations: CNNs, RNNs, Transformers | NLP (Text Preprocessing, Embeddings) | Classical ML (Regression, SVM, KNN)
 Data Science & Visualization
+
+
+
 <p align="left">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
