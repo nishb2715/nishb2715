@@ -20,9 +20,10 @@
 - 🔭 **Currently:** Working on AI-powered ML projects at **KIIT Robotics Society**
 - 🌱 **Learning:** Advanced Deep Learning architectures & MLOps
 - 💼 **Experience:** AI Intern @ Infosys
-- ⚡ **Passion:** I absolutely love hackathons! The adrenaline rush of building something impactful in just a few days keeps me going
+- ⚡ **Passion:** I absolutely love hackathons! The adrenaline rush of building something impactful in just a few days(or hours)keeps me going
 
 ### 🏆 Hackathon Achievements
+- 🥇 **1st Place** - IIT BBSR's ML Hackathon 
 - 🥈 **2nd Place** - BIS-NEXUS Hackathon (Healthcare AI)
 - 👩‍💻 **Top 50 Female Coders** - Amazon HackOn Season 5
 - 🤖 **Built Smart Chatbot with LLMs** @ Kshitij IIT-KGP
