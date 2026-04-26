@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 - 🔭 **Currently:** Architecting **Agentic AI** systems and **Distributed Infrastructure** (5-node clusters).
-- 🌱 **Learning:** Advanced MLOps, System Design (Consistent Hashing, Vector Clocks), and Multi-Agent Reasoning Loops.
+- 🌱 **Learning:** Advanced MLOps, System Design, and Multi-Agent Reasoning Loops.
 - 💼 **Experience:** AI/Backend Intern @ **Aether AI** | AI Intern @ **Infosys** | AI/ML Lead @ **CyberVault KIIT**.
-- ⚡ **Passion:** I absolutely love hackathons! The adrenaline rush of building something impactful in just a few days keeps me going.
+- ⚡ **Passion:** I absolutely love hackathons! Building impactful systems under pressure is where I thrive.
 
 ### 🏆 Hackathon & Career Milestones
 - 🥇 **1st Place** - TechZephyr 3.0 ML Hackathon (IIT Bhubaneswar)
@@ -45,18 +45,24 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-> **Infra Focus:** Consistent Hashing, Distributed Systems, Vector Clocks, Quorum R+W, WAL, REST APIs, n8n Automation.
+> **Infra Focus:** Distributed Systems, Consistent Hashing, Vector Clocks, Quorum R+W, WAL, REST APIs.
 
 ### **AI / ML / NLP / CV**
 <p align="left">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-121011?style=for-the-badge" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
+
+> **ML Specializations:** Multi-Agent Systems, Transformers, NLU Chatbots, LLM/VLM/OCR Pipelines.
 
 ---
 
@@ -67,8 +73,8 @@
 | **MiniKV** 🗄️ | Distributed KV store across a **5-node cluster** using consistent hashing & Vector Clocks. | Python, Redis, Docker | [GitHub](https://github.com/nishb2715) |
 | **DistrQ** ⚡ | Distributed Task Queue handling **10K+ concurrent jobs** with zero task loss. | FastAPI, Redis, PostgreSQL | [GitHub](https://github.com/nishb2715) |
 | **QueryForge** 🔍 | AST-based SQL Optimizer; achieved **3x faster queries** on 1M-row datasets. | Python, PostgreSQL | [GitHub](https://github.com/nishb2715) |
-| **Carbon Compass** 🌍 | AI system to predict & monitor carbon emissions using geospatial data. | TensorFlow, Geospatial Analysis | [Live Demo](https://carbonescompass.netlify.app/) |
-| **ThermoNyx** 🔥 | Thermal anomaly detection for drone images (MIT AI Hackathon). | Python, OpenCV, Computer Vision | [GitHub](https://github.com/Rinav01/ThermoNyx) |
+| **Carbon Compass** 🌍 | AI system to predict & monitor carbon emissions using geospatial data. | TensorFlow, GIS Analysis | [Live Demo](https://carbonescompass.netlify.app/) |
+| **ThermoNyx** 🔥 | Thermal anomaly detection for drone images (MIT AI Hackathon). | Python, OpenCV, CV | [GitHub](https://github.com/Rinav01/ThermoNyx) |
 
 ---
 
@@ -76,22 +82,22 @@
 
 <details>
 <summary>⚖️ The "Virtual Node" Magic</summary>
-In my <b>MiniKV</b> project, I used 150 virtual nodes. Why? It ensures that if one server in the cluster fails, the load is spread evenly across all others rather than crushing just one neighbor. It's the secret to high availability!
+In my <b>MiniKV</b> project, I used 150 virtual nodes. Why? It ensures that if one server fails, the load is spread evenly across all others rather than crushing just one neighbor. It's the secret to high availability!
 </details>
 
 <details>
 <summary>💸 The "73 cents" bug that cost $440 Million</summary>
-In 2012, Knight Capital's trading algorithm had a bug that caused it to buy high and sell low. <b>In 45 minutes</b>, it lost <b>$440 million</b>. Always test your loops, folks!
+In 2012, Knight Capital's trading algorithm had a bug that caused it to buy high and sell low. <b>In 45 minutes</b>, it lost <b>$440 million</b>. Always test your loops!
 </details>
 
 <details>
 <summary>🎨 GANs were invented at a bar</summary>
-Ian Goodfellow coded the first GAN in 2014 after a heated debate with friends at a bar. He went home, coded it, and it worked on the first try. <b>Beer-driven innovation!</b> 🍺
+Ian Goodfellow coded the first GAN in 2014 after a debate with friends at a bar. He went home, coded it, and it worked on the first try. <b>Beer-driven innovation!</b> 🍺
 </details>
 
 <details>
 <summary>⚡ Why training models sounds like a Jet Engine</summary>
-A single matrix multiplication in a transformer might involve <b>1.7 BILLION</b> operations. You do this thousands of times per batch. Your GPU isn't just a chip; it's a space-heater. 🚀
+A single matrix multiplication in a transformer might involve <b>1.7 BILLION</b> operations. Multiply that by thousands of times per batch, and your GPU becomes a space-heater. 🚀
 </details>
 
 ---
