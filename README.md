@@ -17,9 +17,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **Currently:** Working on AI-powered ML projects at **KIIT Robotics Society**
+- 🔭 **Currently:** Working on AI-powered ML projects 
 - 🌱 **Learning:** Advanced Deep Learning architectures & MLOps
-- 💼 **Experience:** AI Intern @ Infosys
+- 💼 **Experience:** EX - AI Intern @ Infosys , @ Aether AI
 - ⚡ **Passion:** I absolutely love hackathons! The adrenaline rush of building something impactful in just a few days(or hours)keeps me going
 
 ### 🏆 Hackathon Achievements
